@@ -1,0 +1,98 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(85, 81, 254);
+    font-family: "Open Sans";
+    font-style: normal;
+    margin: 0px;
+    padding: 0px;
+}
+.wrapper {
+    max-width: 1170px;
+    margin: 0px auto;
+    padding: 75px 0px;
+}
+.header {
+    width: 100%;
+    height: 130px;
+    box-shadow: rgb(70, 66, 208) 25px 50px 65px, rgb(100, 96, 255) -25px -50px 65px;
+    padding: 0px 115px;
+    border-radius: 35px;
+}
+.nav {
+    width: 100%;
+    height: 100%;
+}
+.links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+.header-tab {
+    width: 13.4615%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 23px;
+    cursor: pointer;
+    box-shadow: rgb(70, 66, 208) 10px 10px 20px, rgb(100, 96, 255) -10px -10px 20px;
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    background: rgb(85, 81, 254);
+}
+.header-tab .show {
+    background-color: #fff;
+}
+.main {
+    margin-top: 150px;
+    width: 100%;
+}
+.container {
+    height: 100%;
+}
+.tab-content {
+    width: 100%;
+    height: 500px;
+    box-shadow: rgb(100, 96, 255) -20px -20px 60px, rgb(70, 66, 208) 20px 20px 60px;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(85, 81, 254);
+    border-radius: 40px;
+    padding: 0px 90px 0px 85px;
+}
+.tab-content .img {
+    box-shadow: rgba(98, 93, 255, 0.25) -15px -15px 45px, rgb(72, 69, 216) 15px 15px 45px;
+    max-width: 47.2362%;
+    border-radius: 35px;
+}
+.tab-content .text {
+    max-width: 40%;
+    height: 245px;
+    margin-bottom: 7%;
+}
+.text .title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 41px;
+    color: rgb(255, 255, 255);
+}
+.text .subtitle {
+    font-size: 22px;
+    line-height: 30px;
+    color: rgb(255, 255, 255);
+}
+.subtitle .bold {
+    font-weight: bold;
+}
+.hide {
+    display: none;
+}
+.show {
+    display: flex;
+}
