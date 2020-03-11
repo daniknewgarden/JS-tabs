@@ -1,9 +1,9 @@
 # Tabs on vanilla JavaScript
 
 ## Introduction 
-**Very useful plugin for your web-page.
+**Very useful plugin for your web-page.**
 I’m use JavaScript event delegation to avoid unnecessary code.
-With this plugin you can have from 1 to infinity tabs.**
+With this plugin you can have from 1 to infinity tabs.
 
 ## Setup
 ### Your HTML markdown should look like this:
@@ -44,7 +44,7 @@ With this plugin you can have from 1 to infinity tabs.**
 }
 ```
 
-
+### JavaScript (tabs.js file):
 ```JavaScript
 window.addEventListener('DOMContentLoaded', function () {
 
