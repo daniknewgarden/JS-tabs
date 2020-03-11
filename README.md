@@ -1,1 +1,1 @@
-# JS-tabs
+# Tabs on vanilla JavaScript
