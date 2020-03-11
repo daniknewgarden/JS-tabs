@@ -1,18 +1,21 @@
 # Tabs on vanilla JavaScript
 
-##Introduction 
+## Introduction 
 
-Your HTML markdown must should look like this:
+### Your HTML markdown should look like this:
+*  **Tabs div**
+    * **Tabs navigation**
+      * **Navigation buttons**
+    * **Tabs content**
+      * **Your tabs**
 
 ```html
     <div class="container">
         <nav class="menu">
-            <ul class="menu__links">
-                <button class="menu-link">1 tab</button>
-                <button class="menu-link">2 tab</button>
-                <button class="menu-link">3 tab</button>
-                <button class="menu-link">4 tab</button>
-            </ul>
+            <button class="menu-link">1 tab</button>
+            <button class="menu-link">2 tab</button>
+            <button class="menu-link">3 tab</button>
+            <button class="menu-link">4 tab</button>
         </nav>
         <div class="content">
             <div class="tab-content">first tab-content</div>
@@ -22,10 +25,9 @@ Your HTML markdown must should look like this:
         </div>
     </div>
 ```
-######Tabs container
-*Tabs navigation
-  *Navigation buttons
-*Tabs content
-  *Your tabs
+
+### Your css styles should look like this:
+
+
   
   
