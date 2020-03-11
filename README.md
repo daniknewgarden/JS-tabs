@@ -28,7 +28,7 @@
 
 ### Your css styles should look like this:
 
-###### It should include two classes - ** show and hide**
+###### It should include two classes - **show and hide**
 
 ```css
 .show {
