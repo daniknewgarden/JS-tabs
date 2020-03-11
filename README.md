@@ -6,7 +6,7 @@
 I’m use JavaScript event delegation to avoid unnecessary code.
 With this plugin you can have from 1 to infinity tabs.
 
-![Image of JS-tabs](https://drive.google.com/file/d/1nVSxs4679H-CPCIgHosyryHHdh1he7GY/view?usp=sharing)
+![Image of JS-tabs](https://github.com/daniknewgarden/JS-tabs/blob/master/images/preview.gif)
 
 ## Setup
 ### Your HTML markdown should look like this:
