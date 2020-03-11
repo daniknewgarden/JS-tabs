@@ -45,8 +45,9 @@ body {
     border-radius: 15px;
     background: rgb(85, 81, 254);
 }
-.header-tab .show {
-    background-color: #fff;
+.header .show {
+    box-shadow: -10px -5px 20px #4642D0,
+    10px 5px 20px #6460FF;
 }
 .main {
     margin-top: 150px;
