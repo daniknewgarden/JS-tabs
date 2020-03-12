@@ -26,7 +26,7 @@ window.addEventListener('DOMContentLoaded', function () {
         let target = event.target;
         if (target && target.classList.contains('header-tab')) { //class of your tab button
             for (let i = 0; i < tab.length; i++) {
-                tab[i].classList.remove('show');  //if you want to add some styles on active button
+                tab[i].classList.remove('show');  //if you want to delete some styles from unactive button
                 event.target.classList.add('show'); //if you want to add some styles on active button
                 if (target == tab[i]) {
                     hideTabContent(0);
