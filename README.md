@@ -1,6 +1,6 @@
 # Tabs on vanilla JavaScript
 
-### [VIEW DEMO] (https://daniknewgarden.github.io/JS-tabs/)
+### [VIEW DEMO](https://daniknewgarden.github.io/JS-tabs/)
 
 ## Introduction 
 **Very useful plugin for your web-page.**
